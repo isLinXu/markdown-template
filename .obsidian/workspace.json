@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "e3d5d4ecf91bfacb",
+    "type": "split",
+    "children": [
+      {
+        "id": "3772eb559c523355",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76a21d4d4179e3f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "template /Reflections_on_Movies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "873e5c719af9681a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec24b0b9337ac102",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9726a4db1b820bc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "85cf977b2f60cd76",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0b8c09bdbf6681aa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2aadf78265f088bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a99db98bb06bcba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f220f6be06712cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "template /Reflections_on_Movies.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e8b8d6a008c0ae31",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "template /Reflections_on_Movies.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f69b08ffcb08d82a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4b06516d98230280",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "template /Reflections_on_Movies.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "e9726a4db1b820bc",
+  "lastOpenFiles": [
+    "template /Individual_growth_plan.md",
+    "template /Reflections_on_Movies.md",
+    "template /cookbook.md",
+    "template /finance_management.md",
+    "template /fitness_plan.md",
+    "template /travel_plan.md",
+    "template /desc.md",
+    "template /week_report.md",
+    "template /learn_notes.md",
+    "template /read_note.md",
+    "template /meeting.md",
+    "template /projects.md",
+    "template /todo.md",
+    "template /daily.md"
+  ]
+}
