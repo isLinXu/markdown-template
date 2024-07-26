@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template /Reflections_on_Movies.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "39b2eb5516434fcb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template /Reflections_on_Movies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template /Reflections_on_Movies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "template /Reflections_on_Movies.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,19 +153,32 @@
   },
   "active": "e9726a4db1b820bc",
   "lastOpenFiles": [
+    "template/week_report.md",
+    "template/travel_plan.md",
+    "template/todo.md",
+    "template/read_note.md",
+    "template/projects.md",
+    "template/meeting.md",
+    "template/learn_notes.md",
+    "template/fitness_plan.md",
+    "template/finance_management.md",
+    "template/desc.md",
+    "template/daily.md",
+    "template/cookbook.md",
+    "template/Reflections_on_Movies.md",
+    "template/Individual_growth_plan.md",
+    "template",
+    "README.md",
+    "template /daily.md",
+    "README~.md",
+    "template /week_report.md",
     "template /Individual_growth_plan.md",
-    "template /Reflections_on_Movies.md",
     "template /cookbook.md",
+    "template /Reflections_on_Movies.md",
     "template /finance_management.md",
     "template /fitness_plan.md",
     "template /travel_plan.md",
     "template /desc.md",
-    "template /week_report.md",
-    "template /learn_notes.md",
-    "template /read_note.md",
-    "template /meeting.md",
-    "template /projects.md",
-    "template /todo.md",
-    "template /daily.md"
+    "template /learn_notes.md"
   ]
 }
